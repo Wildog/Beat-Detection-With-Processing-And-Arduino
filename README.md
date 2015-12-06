@@ -7,6 +7,6 @@ Need Arduino and Minim libraries for Processing 1.5.1.
 
 Remember to change the ``ledPin`` value and ``mp3 file path`` to your owns then make 'em glow! 
 
-Details and an example here: http://www.douban.com/note/224919397/
+Details and an example here: http://limbo.space/2013/07/11/arduino-processing-beat-detect/
 
 一个简单的 Arduino + Processing 工程，用 Minim 库中的 BeatDetect 实时读取 Buffer 中的数据并采集音频频率识别 Kick、Snare 和 Hi-Hat 三种鼓点，通过 Arduino 的 Firmata 库驱动 LED 发光。
