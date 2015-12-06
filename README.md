@@ -1,4 +1,4 @@
-Beat-Detection-With-Processing-And-Arduino
+#arduino-beat-detection
 ==========================================
 
 A simple Processing + Arduino project modified from FrequencyEnergy to detect the beat(Kick, Snare, Hi-Hat) from the buffer and then illuminate different LEDs on your Arduino according to the beat by using the StandardFirmata to communicating Arduino and Processing. 
@@ -9,4 +9,4 @@ Remember to change the ``ledPin`` value and ``mp3 file path`` to your owns then 
 
 Details and an example here: http://limbo.space/2013/07/11/arduino-processing-beat-detect/
 
-Ò»¸ö¼òµ¥µÄ Arduino + Processing ¹¤³Ì£¬ÓÃ Minim ¿âÖĞµÄ BeatDetect ÊµÊ±¶ÁÈ¡ Buffer ÖĞµÄÊı¾İ²¢²É¼¯ÒôÆµÆµÂÊÊ¶±ğ Kick¡¢Snare ºÍ Hi-Hat ÈıÖÖ¹Äµã£¬Í¨¹ı Arduino µÄ Firmata ¿âÇı¶¯ LED ·¢¹â¡£
+ä¸€ä¸ªç®€å•çš„ Arduino + Processing å·¥ç¨‹ï¼Œç”¨ Minim åº“ä¸­çš„ BeatDetect å®æ—¶è¯»å– Buffer ä¸­çš„æ•°æ®å¹¶é‡‡é›†éŸ³é¢‘é¢‘ç‡è¯†åˆ« Kickã€Snare å’Œ Hi-Hat ä¸‰ç§é¼“ç‚¹ï¼Œé€šè¿‡ Arduino çš„ Firmata åº“é©±åŠ¨ LED å‘å…‰ã€‚
